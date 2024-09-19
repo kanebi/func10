@@ -2,7 +2,6 @@
 import { motion } from "framer-motion";
 import { BiPhone } from "react-icons/bi";
 import { CgMail } from "react-icons/cg";
-import { GiMailbox } from "react-icons/gi";
 
 export default function Home() {
   return (
