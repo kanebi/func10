@@ -40,7 +40,7 @@ export default function Home() {
             </div>
             <div className=" bg-primary bg-opacity-20  hover:bg-opacity-100 focus:bg-opacity-100 transition-all shadow-lg  rounded-lg ring-offset-4   m-2 p-4 ">
               <h5>
-                Interested in the big white thig with million pixels light{" "}
+                Interested in the big box with million pixels {" "}
               </h5>
             </div>
             <div className=" bg-primary bg-opacity-20 hover:bg-opacity-100 focus:bg-opacity-100 transition-all  shadow-lg  rounded-lg ring-offset-4   m-2 p-4 ">
@@ -208,6 +208,7 @@ export default function Home() {
           </div>
         </motion.div>
       </div>
+      <div className=" text-center p-4"> &copy; 2024</div>
     </div>
   );
 }
