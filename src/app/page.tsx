@@ -49,7 +49,7 @@ export default function Home() {
           </div>
           <div className=" flex flex-col gap-2  ">
             <h4 className=" text-secondary text-center text-lg font-extrabold ">
-              We're in love with you if You Are:
+              We are in love with you if You Are:
             </h4>
             <div className=" bg-primary bg-opacity-20  hover:bg-opacity-100 focus:bg-opacity-100 transition-all shadow-lg  rounded-lg ring-offset-4   m-2 p-4 ">
               <h5>A boring wreckless bedroom developer </h5>
@@ -120,7 +120,7 @@ export default function Home() {
           className=" text-right p-3 text-primary flex flex-col gap-2 justify-between"
         >
           <h4>Hungry for More? </h4>
-          <h1 id="hungry">Now Join Us Today, It's More Than Education</h1>
+          <h1 id="hungry">Now Join Us Today, It is More Than Education</h1>
 
           <motion.div className="mb-4">
             <p className="text-xl">
